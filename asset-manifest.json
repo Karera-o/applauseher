@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Empowering-Women/static/css/main.999947f8.css",
+    "main.js": "/Empowering-Women/static/js/main.bf10c78a.js",
+    "static/media/presentation.png": "/Empowering-Women/static/media/presentation.2d949a93e3bcab6b6622.png",
+    "static/media/background.png": "/Empowering-Women/static/media/background.9a61e80969ee5be8ce5a.png",
+    "static/media/woman.jpg": "/Empowering-Women/static/media/woman.64b75dc9504a098e72bc.jpg",
+    "static/media/Ellipse2.png": "/Empowering-Women/static/media/Ellipse2.a9b2334e102d44c748ce.png",
+    "static/media/Ellipse1.png": "/Empowering-Women/static/media/Ellipse1.329a07f74d488769bd35.png",
+    "static/media/Ellipse 21.png": "/Empowering-Women/static/media/Ellipse 21.002eccb60181b3e5aa2e.png",
+    "index.html": "/Empowering-Women/index.html",
+    "main.999947f8.css.map": "/Empowering-Women/static/css/main.999947f8.css.map",
+    "main.bf10c78a.js.map": "/Empowering-Women/static/js/main.bf10c78a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.999947f8.css",
+    "static/js/main.bf10c78a.js"
+  ]
+}
