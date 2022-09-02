@@ -1,7 +1,7 @@
 {
   "name": "empowering",
+  "homePage": " https://karera-o.github.io/applauseher/",
   "version": "0.1.0",
-  "homepage": "https://karera-o.github.io/Empowering-Women/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
